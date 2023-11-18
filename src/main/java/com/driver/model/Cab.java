@@ -35,6 +35,9 @@ public class Cab {
     public boolean isAvailable() {
         return available;
     }
+    public boolean getAvailable() {
+        return available;
+    }
 
     public void setAvailable(boolean available) {
         this.available = available;
